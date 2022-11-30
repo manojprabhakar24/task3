@@ -1,0 +1,18 @@
+3)
+window;
+     window is the execution context and global object for that,
+context's JavaScript. 
+      The Window interface is home to a variety of functions, namespaces, objects, and constructors,
+       which are not necessarily directly associated with the concept of a user interface window.
+
+
+
+  screen;
+       The JavaScript screen object holds information of browser screen.
+       The screen object refers to the actual monitor window or desktop size.
+
+
+       document;
+         The document object represent a web page that is loaded in the browser.
+         The Document object has various properties that refer to other objects,
+         which allow access to and modification of document content. 
